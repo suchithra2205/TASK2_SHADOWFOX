@@ -72,27 +72,6 @@
     <li><strong>Comprehensive Data Coverage 🏆</strong>: From live scores to player profiles, all aspects of the IPL are covered comprehensively.</li>
 </ul>
 
-<h2>Project Installation</h2>
-<p>To get the IPL Dashboard up and running on your local machine, follow these steps:</p>
-
-<h3>Clone the Repository:</h3>
-<pre><code>git clone https://github.com/mayankyadav1711/ipl.git</code></pre>
-
-<h3>Install Dependencies:</h3>
-<pre><code>npm install</code></pre>
-
-<h3>Start the Application:</h3>
-<pre><code>npm start</code></pre>
-
-<h2>Links</h2>
-<ul>
-    <li><a href="https://www.youtube.com">YouTube Demo</a>: Watch a demonstration of the IPL Dashboard.</li>
-    <li><a href="https://www.live-preview-link.com">Live Preview</a>: Explore the live version of the IPL Dashboard.</li>
-    <li>Source Code (Only Frontend): At present, we have commented out the API calls and as a placeholder, we have put the sample API response everywhere. <a href="https://github.com/mayankyadav1711/ipl.git">GitHub Repository</a></li>
-</ul>
-
-<h2>Note</h2>
-<p><b>This project is strictly for educational purposes and is not intended for commercial use. We do not encourage using web scraping for profit-driven activities. Due to security reasons and to adhere to ethical guidelines, we cannot provide the backend code. Our aim is to demonstrate the potential of web scraping in educational projects and not to undermine any website's integrity.</b></p>
 
 </body>
 </html>
